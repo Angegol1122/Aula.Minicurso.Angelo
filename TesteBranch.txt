@@ -1,0 +1,17 @@
+int main(){
+    setlocale(LC_ALL,"Portuguese");
+    int a;
+    printf("\nDigite o a: );
+    scanf("%d",&a);
+    int b;
+    printf("\nDigite o b: );
+    scanf("%d",&b);
+    int soma;
+    soma= a + b;
+    printf("\nsoma é: %d",soma);
+
+
+
+
+
+}
